@@ -53,7 +53,7 @@ Safe to add and remove from existing saves.
 
 # Credits
 
-<a href="https://www.flaticon.com/free-icons/fast" title="fast icons">Fast icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/curve-arrow" title="curve arrow icons">Curve arrow icons created by Kharisma - Flaticon</a>
 
 # Change Log 
 ## 1.0.0  
