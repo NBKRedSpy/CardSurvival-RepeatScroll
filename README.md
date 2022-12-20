@@ -8,6 +8,13 @@ Also has an option to change the scroll speed (disabled by default).
 |ScrollRepeatDelay|250|When holding the scroll key down, indicates how often the scroll will repeat|
 |ScrollSpeedMilliseconds|0|The amount of time that a scroll will take to complete.  Use zero for the game's default speed.|
 
+# Changing the Configuration
+All options are contained in the config file which is located at ```<Steam Directory>\steamapps\common\Card Survival Tropical Island\BepInEx\config\RepeatScroll.cfg```.
+
+The .cfg file will not exist until the mod is installed and then the game is run.
+
+To reset the config, delete the config file.  A new config will be created the next time the game is run.
+
 # Installation 
 This mod requires the BepInEx mod loader.
 
