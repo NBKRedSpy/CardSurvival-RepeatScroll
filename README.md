@@ -1,5 +1,9 @@
+# Spacebar Invoke Action Mod Compatibility.
+This mod's functionality has been moved into the Spacebar Invoke Action mod as of version 2.0.0.  The mod is also known as Remap Hotkeys.
+If using both mods, uninstall this mod.  Otherwise the Spacebar Invoke Action mod will not load.
+
 # Repeat Scroll
-Allows holding a scroll key down to continiously scroll a card line.
+Allows holding a scroll key down to continuously scroll a card line.
 Also has an option to change the scroll speed (disabled by default).
 
 # Settings
